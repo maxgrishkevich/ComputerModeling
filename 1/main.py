@@ -1,3 +1,4 @@
+#program which calculate error of Runge-Kuta and Euler methods 
 from scipy.integrate import odeint
 from numpy import linspace
 
